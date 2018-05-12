@@ -1,0 +1,29 @@
+_repo: Henry-Hudson--13-A-Brief-Statement-of-His-Aims-and-His-Achievements_13442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janvier, Thomas A. (Thomas Allibone)
+    alias: Janvier, Thomas Allibone
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '3196'
+    url: http://www.gutenberg.org/2009/agents/3196
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
+description: ''
+gutenberg_issued: '2004-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Hudson, Henry, -1611'
+- !lcsh 'Explorers -- Great Britain -- Biography'
+title: 'Henry Hudson: A Brief Statement of His Aims and His Achievements'
+url: http://www.gutenberg.org/ebooks/13442
